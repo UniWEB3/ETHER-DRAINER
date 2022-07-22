@@ -1,0 +1,101 @@
+.Home_container__97eC3 {
+    background-color: #d7d7d7
+}
+
+.Home_container__97eC3>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 24px
+}
+
+@media screen and (max-width:768px) {
+    .Home_container__97eC3>div {
+        width: 100%;
+        min-height: 400px
+    }
+}
+
+.Home_container__97eC3 .Home_left__PDvAo>span {
+    max-width: 75% !important;
+    border-radius: 24px;
+    box-shadow: 0 6px 16px 6px rgba(58, 58, 58, .5)
+}
+
+@media screen and (max-width:768px) {
+    .Home_container__97eC3 .Home_left__PDvAo>span {
+        border-radius: 12px
+    }
+}
+
+.Home_container__97eC3 .Home_left__PDvAo>span img {
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY {
+    flex-direction: column
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_banner__F5GOV {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 8px
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_banner__F5GOV img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    -o-object-position: center;
+    object-position: center
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_content__WcTpR {
+    text-align: center;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #000
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_content__WcTpR .Home_desc__q_6Ri {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    color: #464646
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_content__WcTpR .Home_soon__8s2ww {
+    font-size: 32px;
+    line-height: 48px;
+    font-style: italic;
+    margin-bottom: 80px;
+    letter-spacing: 3px
+}
+
+.Home_container__97eC3 .Home_right__Q3ZHY .Home_content__WcTpR .Home_socials__Gabme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 16px;
+    gap: 16px
+}
+
+@media screen and (max-width:768px) {
+    .Home_container__97eC3 {
+        display: flex;
+        flex-direction: column-reverse
+    }
+}
+
+@media screen and (min-width:768px) {
+    .Home_container__97eC3 {
+        display: flex;
+        width: 100%;
+        height: 100vh
+    }
+}
